@@ -1,6 +1,0 @@
-    int main() {
-    float a,b,c;
-    float sqmean;
-    scanf("%f %f %f\n",&a,&b,&c);
-    sqmean=((a*a+b*b+c*c)/3);
-    printf("%0.2f\n",sqrt(sqmean));
